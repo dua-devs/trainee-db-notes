@@ -1,7 +1,6 @@
 # trainee-db-notes
 
 This repo contains short notes about:
-
 **Repository (Repo):**
   A project folder on GitHub that stores your files and the full history of changes. Used to organize and share work.
 **Clone:**
