@@ -18,3 +18,5 @@ This repo contains short notes about:
   Combine changes from one branch into another after the work is ready.
 **Pull Request (PR):**
   A request to merge your branch into `main`. It enables review and discussion before merging.
+
+  Last updated: 28 Jan 2026
