@@ -26,3 +26,7 @@ Relationships:
 
 ## Diagram
 I will upload the ERD image to `/diagrams/` and reference it here.
+
+## ERD Diagram
+![Library ERD](/diagrams/library-erd..png)
+
